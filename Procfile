@@ -1,1 +1,1 @@
-web: python attendance_tracker.py
+web: gunicorn app:app
